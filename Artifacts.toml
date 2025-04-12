@@ -1,0 +1,160 @@
+[[LZFSE]]
+arch = "aarch64"
+git-tree-sha1 = "3cbaaa53868a6f7b308de9b2e0cc18f4c480d358"
+os = "macos"
+
+    [[LZFSE.download]]
+    sha256 = "d6122be5f5dd34fbcb9e18e913b961c04ab11f2f00e77b2a12d60859bf6d7193"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[LZFSE]]
+arch = "aarch64"
+git-tree-sha1 = "c3462340c269e5713667fd24a176e179508fa994"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "ee2e760b14cc76c549a6003e949cf3e9d6e85a5921c820ce819dc1ace519ce90"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[LZFSE]]
+arch = "aarch64"
+git-tree-sha1 = "7ced7019fcd78bf2e9e33265e127e7a7f762c1a1"
+libc = "musl"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "cb380826a2dec8bdddfb8c152cfea4a1e170705a4906a5fef95f08f470fed5a4"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.aarch64-linux-musl.tar.gz"
+[[LZFSE]]
+arch = "aarch64"
+git-tree-sha1 = "b29f2f0875af2133b090af456661c77ae78e155b"
+os = "freebsd"
+
+    [[LZFSE.download]]
+    sha256 = "bea9af59bf14fe7d2c83b621bf92390403c3d0859a121d3b3bb746fe8935c6c6"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+[[LZFSE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dee31df2f26f2984e62d727ca2d6b9d4b5bf3b13"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "972cbca4d819fe578d5a5f6f69599142171da7f601f87e6d5392066b46b4ab6d"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[LZFSE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9a45c7fac485302c35a43b367304c8849c58972d"
+libc = "musl"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "9d587c3e5e41d6e7fd076960601ab658b47e6fb740c7fb6bd15360f82e7e6332"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[LZFSE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba5529169b2df3691ec7186f1615357a059cf9b7"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "e90b1962ec213867a9d32958f376e50b198b4dffc349706e98e658426fb1ad6e"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[LZFSE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "99c7b9223892828958a5cc13b379b605699b2ff0"
+libc = "musl"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "54d4851ab995bb77853fd23e8d10cc40809015d5f23f22543f97f7d340c37b80"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[LZFSE]]
+arch = "i686"
+git-tree-sha1 = "980086ba3a45240f3ff6325604f77fa568877d0b"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "43f4d7ed66e272e6f5b6fc7e6804a016770f5749e67525bff48e22aa3c455dc5"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.i686-linux-gnu.tar.gz"
+[[LZFSE]]
+arch = "i686"
+git-tree-sha1 = "4f13f44265643b718ee80b2c941bca615cc6ef59"
+libc = "musl"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "78cf5438ad0bdea9d75a67b21b8e44372b7d4bb2c93398b7a359d196918a850f"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.i686-linux-musl.tar.gz"
+[[LZFSE]]
+arch = "i686"
+git-tree-sha1 = "db62e33b34bce18206f86423981e6d74d736749d"
+os = "windows"
+
+    [[LZFSE.download]]
+    sha256 = "51e7f06163186030b4cde45ede3c405242230cb7431cde4d5365376869b5318a"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.i686-w64-mingw32.tar.gz"
+[[LZFSE]]
+arch = "powerpc64le"
+git-tree-sha1 = "a3d45ec7246bb5443b6e6b1a9eb19c94917147b3"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "bd7f12b16b123da9d3c45f1339ce03f5b6da10e1ea58913d4609ef4becdb9527"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[LZFSE]]
+arch = "riscv64"
+git-tree-sha1 = "2c3b6624e9c3d449f4cef6fb308bd5614f3213a3"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "6df70bf895931536c316bd08e58416601215e02ab0e3b5b0cd72139d151f8929"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.riscv64-linux-gnu.tar.gz"
+[[LZFSE]]
+arch = "x86_64"
+git-tree-sha1 = "1baf97631cb1d4cf2705bbb832bd80f268941d39"
+os = "macos"
+
+    [[LZFSE.download]]
+    sha256 = "e06d6b9ab81de6bc4cfd551a28c05169894b355c9ca32b2b76be4854f886ed69"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[LZFSE]]
+arch = "x86_64"
+git-tree-sha1 = "3e18f09dd36e9d37d316846560843e49e85a342b"
+libc = "glibc"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "7a733bad34a793d1c51be25561f14fd4ee4dad089cbb81b1627e08a38230a531"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[LZFSE]]
+arch = "x86_64"
+git-tree-sha1 = "3d4d381c6dc59c0d825f1bcafcb00d3d262c6ecc"
+libc = "musl"
+os = "linux"
+
+    [[LZFSE.download]]
+    sha256 = "b20559152663bea6ef44a2deffac2fd1e0ac8e3417834cff72fff14a1decc4b0"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.x86_64-linux-musl.tar.gz"
+[[LZFSE]]
+arch = "x86_64"
+git-tree-sha1 = "42c4575d6a38d65128bf895b184a637d3725eed1"
+os = "freebsd"
+
+    [[LZFSE.download]]
+    sha256 = "a83e448c8f234c5cd9340dbde26c35fb78f3b785c1578d5e70e7f4e255d7bfbf"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LZFSE]]
+arch = "x86_64"
+git-tree-sha1 = "b88ee9b68471c28325d015dd7ee4fb6fc3db61aa"
+os = "windows"
+
+    [[LZFSE.download]]
+    sha256 = "075611bdbdc035cc3026c431e02605c3bae1c24d55b317f9af9c16dc86dd9a4d"
+    url = "https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl/releases/download/LZFSE-v1.0.0+0/LZFSE.v1.0.0.x86_64-w64-mingw32.tar.gz"
